@@ -1,0 +1,8 @@
+SCC = This is a Source Code Control file
+
+[TimedExeLauncher.vbp]
+SCC_Aux_Path =\\filo\app_dev\Apps_Team\SourceSafe\SD2001
+SCC_Project_Name ="$/TimedExeLauncher", DWAAAAAA
+[TimedProgramLauncher.vbp]
+SCC_Project_Name ="$/TimedProgramLauncher", LWAAAAAA
+SCC_Aux_Path =\\filo\app_dev\Apps_Team\SourceSafe\SD2001
